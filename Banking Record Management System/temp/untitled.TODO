@@ -1,0 +1,9 @@
+Banking Record Management System :
+  ✔ Add New Account  ( A ) @done (15-05-19 17:50)
+  ✔ Delete Account  ( D ) @done (15-05-19 22:34)
+  ✔ Deposit Balance  ( + ) @done (15-05-19 23:29)
+  ✔ Withdraw Balance  ( - ) @done (15-05-19 23:29)
+  ✔ Show all records  ( S ) @done (15-05-19 22:34)
+  ✔ Account Details  ( C ) @done (15-05-19 22:34)
+  ✘ All Customer Details  ( R ) @cancelled (15-08-10 08:54)
+  ✔ Exit  ( X ) @done (15-05-19 17:50)

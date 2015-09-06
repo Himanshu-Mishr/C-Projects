@@ -1,0 +1,16 @@
+COMMAND     PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+chrome     4633 himanshu   70u  IPv4  96623      0t0  TCP 192.168.0.13:58390->do-2.lastpass.com:https (ESTABLISHED)
+chrome     4633 himanshu   78u  IPv4 338317      0t0  TCP 192.168.0.13:46275->ec2-54-251-241-207.ap-southeast-1.compute.amazonaws.com:http (ESTABLISHED)
+chrome     4633 himanshu   79u  IPv4 100312      0t0  TCP 192.168.0.13:55445->74.125.68.188:5228 (ESTABLISHED)
+chrome     4633 himanshu   85u  IPv4  74038      0t0  UDP *:mdns 
+chrome     4633 himanshu   86u  IPv4 232637      0t0  TCP 192.168.0.13:40550->sa-in-f189.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  193u  IPv4 329198      0t0  TCP 192.168.0.13:41044->maa03s19-in-f4.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  232u  IPv4 329154      0t0  TCP 192.168.0.13:37064->maa03s19-in-f14.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  253u  IPv4 326625      0t0  TCP 192.168.0.13:37082->maa03s19-in-f14.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  266u  IPv4 326636      0t0  TCP 192.168.0.13:37341->node-202-78-239-169.alliancebroadband.in:http (ESTABLISHED)
+chrome     4633 himanshu  267u  IPv4 315406      0t0  TCP 192.168.0.13:55117->maa03s18-in-f14.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  271u  IPv4 326646      0t0  TCP 192.168.0.13:48527->stackoverflow.com:https (ESTABLISHED)
+chrome     4633 himanshu  287u  IPv4 334084      0t0  TCP 192.168.0.13:37363->node-202-78-239-169.alliancebroadband.in:http (ESTABLISHED)
+chrome     4633 himanshu  338u  IPv4 336083      0t0  TCP 192.168.0.13:38118->maa03s18-in-f13.1e100.net:https (ESTABLISHED)
+chrome     4633 himanshu  356u  IPv4 333568      0t0  TCP 192.168.0.13:46221->maa03s19-in-f8.1e100.net:https (ESTABLISHED)
+plugin_ho 28213 himanshu   20u  IPv4  88334      0t0  UDP localhost:46148->himanshu:domain 

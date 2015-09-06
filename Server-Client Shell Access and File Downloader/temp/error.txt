@@ -1,0 +1,9 @@
+/etc/host.conf:order hosts,bind
+/etc/hosts:# The following lines are desirable for IPv6 capable hosts
+/etc/hosts.allow:# /etc/hosts.allow: list of hosts that are allowed to access the system.
+/etc/hosts.allow:#                   See the manual pages hosts_access(5) and hosts_options(5).
+/etc/hosts.deny:# /etc/hosts.deny: list of hosts that are _not_ allowed to access the system.
+/etc/hosts.deny:#                  See the manual pages hosts_access(5) and hosts_options(5).
+/etc/matplotlibrc:#ps.usedistiller   : False    # can be: None, ghostscript or xpdf
+/etc/matplotlibrc:                                          # but requires ghostscript, xpdf and ps2eps
+/etc/nsswitch.conf:hosts:          files mdns4_minimal [NOTFOUND=return] dns

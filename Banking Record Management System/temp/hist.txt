@@ -1,0 +1,891 @@
+history > subl hist.txt
+history | subl hist.txt
+history
+ll
+ls
+cd work/c/BRMS/
+themr
+./bank
+clang bank.c -o bank -I/usr/include/mysql -DBIG_JOINS=1  -fno-strict-aliasing    -g -DNDEBUG -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lpthread -lz -lm -ldl
+ranger
+./temp2
+clang temp2.c -o temp2
+mysql -u root -p
+mysqld -u root -p
+ld
+tail -f customer_db.txt 
+ping 10.254.254.4
+./sql5 
+clang sql5.c -o sql5 -I/usr/include/mysql -DBIG_JOINS=1  -fno-strict-aliasing    -g -DNDEBUG -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lpthread -lz -lm -ldl
+mysql_config --libs
+mysql_config --cflags
+mysql_config --cflag
+clang sql5.c -o sql5
+vim /etc/mysql/my.cnf
+gcc sql2.c -o sql2
+gcc sql2.c -o sql2  mysql_config 
+gcc sql2.c -o sql2  `mysql_config --cflags --libs`
+reset
+grep "include" *
+LL
+lll
+/usr/bin/theme
+clang++ sql3.cpp -I/usr/include/mysql -g -pipe -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -fno-strict-aliasing -fwrapv -fPIC -DUNIV_LINUX -rdynamic -L/usr/lib64/mysql -lmysqlclient -lz -lcrypt -lnsl -lm -lssl -lcrypto
+clang sql3.cpp -I/usr/include/mysql -g -pipe -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -fno-strict-aliasing -fwrapv -fPIC -DUNIV_LINUX -rdynamic -L/usr/lib64/mysql -lmysqlclient -lz -lcrypt -lnsl -lm
+clang sql3.cpp -I/usr/include/mysql -g -pipe -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -fno-strict-aliasing -fwrapv -fPIC -DUNIV_LINUX -rdynamic -L/usr/lib64/mysql -lmysqlclient -lz -lcrypt -lnsl -lm -lssl -lcrypto
+clang sql3.c -I/usr/include/mysql -g -pipe -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -fno-strict-aliasing -fwrapv -fPIC -DUNIV_LINUX -rdynamic -L/usr/lib64/mysql -lmysqlclient -lz -lcrypt -lnsl -lm -lssl -lcrypto
+clang sql3.c
+l
+cd
+mysql --help
+mysql
+man zip
+man prog
+gcc sql2.c  -o sql2 
+gcc sql2.c  -o sql2 `mysql_config
+gcc sql2.c  -o sql2 `mysql_config --cflags --libs
+gcc sql2.c  -o sql2 mysql_config --cflags --libs
+clang sql2.c  -o sql2 `mysql_config --cflags --libs
+clang sql2.c  -o sql2
+sudo apt-get autoremove
+sudo apt-get install libmysqlclient-dev
+sudo mysqld 
+mysqld 
+sql
+postgresql
+POST 
+postgre
+./temp1 
+clang temp1.c -o temp1
+clang bank.c -o bank
+lsof -i > tail
+tail
+tail | lsof -i
+tail < lsof -i
+tail customer_db.txt 
+view customer_db.txt 
+sudo subl /usr/bin/themr 
+clang todayTime.c -o todayTime
+cd BRMS/
+/bank
+clear
+work/c/
+sudo reboot now
+fish_config
+emacs
+lspci | grep -i intel
+lspci | grep -i wireless
+vim
+vim.basic 
+ipython
+learning
+function fish_prompt ; pwd>&8;kill -STOP %self; end
+sudo lsof -i
+git clone https://github.com/scrooloose/nerdtree
+cd ~/.vim/bundle
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+cd autoload/
+cd ..
+mkdir -p ~/.vim/autoload ~/.vim/bundle & \
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+git clone git://github.com/klen/python-mode.git
+cd bundle/
+cd .vim/
+::
+:wq
+rmdir -f  python-mode/
+rmdir -r  python-mode/
+rmdir python-mode/
+rm python-mode/
+tree
+mkdir -p bundle
+mkdir -p bundle & cd bundle
+cd ~/.vim
+ls -a
+ls -
+weechat
+vimtutor 
+./scanf_print 
+clang scanf_print.c -o scanf_print
+vim scanf_print.c
+./enum
+clang enum.c -o enum
+vim enum.c
+chmod +x enum.c 
+clang enum.c 
+cd work/c/
+themr 
+sudo sed -i '/Group\]\|Desktop Entry/a StartupWMClass=Google-chrome-stable' /usr/share/applications/google-chrome.desktop
+sudo apt-get upgrade 
+sudo apt-get update
+whatis curese
+sudo apt-get remove opera-stable 
+sudo apt-get remove opera-next 
+sudo apt-get remove opera-developer 
+sudo apt-get remove opera-beta 
+sudo apt-get remove opera
+sudo apt-get clean
+exit
+man ranger
+ranger --version
+sudo make install
+cd ranger/
+ranger --profile
+python3 PRIME.py 
+python3 prime1.py 
+cd uptoapril16/
+cd work/python
+python3
+disks
+sudo webhttrack
+webhttrack 
+sudo apt-get update 
+sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
+sudo nethogs wlan0
+sudo nethogs wlan0 -t
+sudo nethogs --help
+ip addr
+sudo nethogs
+ioctl
+sudo nethogs device:eth0
+nethogs
+netstat -p
+netstat
+nestat
+lsof -i
+sudo apt-get remove mpd
+bash gitUpdate.sh 
+htop
+git config --global credential.helper store
+gnome-keyring-3 --help
+gnome-keyring-3 
+gnome-keyring
+gnome-keyring-daemon 
+keytool 
+git push
+git pull -u  origin master
+cola
+git rm *
+git commit -m "updating file to test"
+git add *
+git status
+git rm -r *
+rmdir test/*
+rmdir test/
+git rm .gitUpdate.sh.swp
+cd .
+cd Wholesale\ Unlocked\ Phones\ in\ Bulk\ –\ Buy\ or\ Bid\ Now\ -\ Wholesale\ Phone\ Lots_files/
+cd test
+rm .gitUpdate.sh.swp 
+git add --all
+cd Himanshu-Mishr.github.io/
+cd work/github
+vim gitUpdate.sh 
+cd work/github/
+mc
+logout
+vi ranwhen.py 
+vim ranwhen.py 
+gnome-terminal
+rm temp.sh 
+bash temp.sh 
+./ranwhen.py 
+sudo apt-get upgrade
+sudo vim /var/lib/apt/lists/dl.google.com_linux_chrome_deb_dists_stable_main_binary-i386_Packages 
+sudo vim /var/lib/apt/lists/
+man mpd
+sudo mpd 
+mpd
+tmux detach
+tmux -2
+tmux
+bash twork.sh 
+bash twork.sh
+LS
+./twork.sh
+man rm 
+ll -a
+y
+rm -r ".git"
+rm "*.git"
+rm *.git
+rm *.gi
+rm *.git*
+cd work/java/
+Q
+gsettings set org.pantheon.terminal.settings font "monaco"
+vim theme.sh 
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/background_color" --type string "#ffffffffffff"
+gconftool-2 -R /apps/gnome-terminal/profiles/Default | grep color
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/palette" --type string "#000000:#c82829:#718c00:#eab700:#4271ae:#8959a8:#3e999f:#ffffff:#000000:#c82829:#718c00:#eab700:#4271ae:#8959a8:#3e999f:#ffffff"
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/palette" --type string "#000000:#f2777a:#99cc99:#ffcc66:#6699cc:#cc99cc:#66cccc:#ffffff:#000000:#f2777a:#99cc99:#ffcc66:#6699cc:#cc99cc:#66cccc:#ffffff"
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/foreground_color" --type string "#4d4d4c"
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/background_color" --type string "#ffffff"
+bash theme.sh 
+python3 extract.py > theme.sh
+cd Test/theme
+gconftool-2 --set "/apps/gnome-terminal/profiles/Default/background_color" --type string "#000000FFFFFF"    
+gconftool-2 -a "/apps/gnome-terminal/profiles/Default" | grep color
+gconftool-2 --get /apps/gnome-terminal/global/profile_list
+dconf list /org/gnome/terminal/legacy/profiles:/
+gconftool-2 
+gconftool
+gset string palette "#000000000000:#919122222626:#777789890000:#AEAE7B7B0000:#1D1D25259494:#68682a2a9b9b:#2B2B66665151:#929295959393:#666666666666:#CCCC66666666:#B5B5BDBD6868:#F0F0C6C67474:#8181A2A2BEBE:#B2B29494BBBB:#8A8ABEBEB7B7:#ECECEBEBECEC"
+reanger
+reager
+set -x EDITOR vim
+ranger --copy-config=all
+sudo ranger
+rename theme.sh themr
+theme/
+cd Test/
+mc --version
+man rager
+ranger E
+java pp
+pyvenv-3.4 
+pyenv
+pip3 install --upgrade python3
+pip3 install --upgrade python
+p 3.4.3
+p
+sudo p ls latest
+sudo p ls stable
+p ls stable
+p ls latest
+p status
+p --help
+python3 --version
+python3 --verion
+python --version
+sudo mv p /usr/local/bin
+sudo chmod +x p
+wget https://github.com/qw3rtman/p/releases/download/v0.1.0/p
+wget "https://www.google.com/search?q=define%20images"
+wget "https://www.google.com/search?q=define+images&bav=on.2,or.r_cp.&biw=1366&bih=626&dpr=1"
+google-chrome webhp\?sourceid=chrome-instant\&ion=1\&espv=2\&ie=UTF-8 
+wget "https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#newwindow=1&q=define+images"
+wget https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#newwindow=1&q=define+images
+cd Pictures/
+cd theme
+Test/
+cd Desktop/
+rm tmux-client-14435.log 
+rm tmux-server-14437.log 
+subl tmux-server-14437.log 
+subl tmux-
+tmux version
+tmux -v
+tmux versoin
+tmux --version
+zxczxc
+wget -O - oduso.com/op7y.sh | bash
+gsettings set org.pantheon.terminal.settings palette "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+gsettings set org.pantheon.terminal.settings foreground "#4a4a45454343"
+gsettings set org.pantheon.terminal.settings cursor_color "#4a4a45454343"
+gsettings set org.pantheon.terminal.settings background "#f7f7f7f7f7f7"
+gsettings set org.pantheon.terminal.settings palette "#090903030000:#dbdb2d2d2020:#0101a2a25252:#fdfdeded0202:#0101a0a0e4e4:#a1a16a6a9494:#b5b5e4e4f4f4:#a5a5a2a2a2a2:#5c5c58585555:#e8e8bbbbd0d0:#3a3a34343232:#4a4a45454343:#80807d7d7c7c:#d6d6d5d5d4d4:#cdcdabab5353:#f7f7f7f7f7f7"
+dconf-editor 
+gset bool   use_theme_background "false"
+gset bool   use_theme_colors "false"
+gset bool   bold_color_same_as_fg "true"
+gset string bold_color "#695d69"
+gset string foreground_color "#695d69"
+gset string background_color "#f7f3f7"
+gset string palette "#f7f3f7:#ca402b:#379a37:#bb8a35:#516aec:#7b59c0:#159393:#ab9bab:#776977:#ca402b:#379a37:#bb8a35:#516aec:#7b59c0:#159393:#1b181b"
+./theme.sh 
+chmod +x theme.sh 
+subl theme.sh 
+python3 extract.py 
+echo '
+                         3024 Day (  1)                       3024 Night (  2)                    AdventureTime (  3)
+                        Afterglow (  4)                       AlienBlood (  5)                         Argonaut (  6)
+                           Arthur (  7)                             Atom (  8)                    Belafonte Day (  9)
+                  Belafonte Night ( 10)                  BirdsOfParadise ( 11)                           Blazer ( 12)
+                          Borland ( 13)                        Broadcast ( 14)                       Brogrammer ( 15)
+                              C64 ( 16)                             CLRS ( 17)                            Chalk ( 18)
+                       Chalkboard ( 19)                           Ciapre ( 20)                      Cobalt Neon ( 21)
+                          Cobalt2 ( 22)                   CrayonPonyFish ( 23)                      Dark Pastel ( 24)
+                         Darkside ( 25)                           Desert ( 26)                    DimmedMonokai ( 27)
+                          Dracula ( 28)                        Earthsong ( 29)                        Elemental ( 30)
+                   Espresso Libre ( 31)                         Espresso ( 32)                         FishTank ( 33)
+                             Flat ( 34)                         Flatland ( 35)                  FrontEndDelight ( 36)
+                       FunForrest ( 37)                           Galaxy ( 38)                           Github ( 39)
+                            Grape ( 40)                            Grass ( 41)                         Hardcore ( 42)
+                           Harper ( 43)                          Highway ( 44)                    Hipster Green ( 45)
+                         Homebrew ( 46)                          Hurtado ( 47)                           Hybrid ( 48)
+                     IC_Green_PPL ( 49)                    IC_Orange_PPL ( 50)                         IR_Black ( 51)
+                     Jackie Brown ( 52)                       Japanesque ( 53)                       Jellybeans ( 54)
+                           Kibble ( 55)               Later This Evening ( 56)                        Lavandula ( 57)
+                     LiquidCarbon ( 58)          LiquidCarbonTransparent ( 59)   LiquidCarbonTransparentInverse ( 60)
+                         Man Page ( 61)                          Mathias ( 62)                        Medallion ( 63)
+                       Misterioso ( 64)                          Molokai ( 65)                         MonaLisa ( 66)
+                     Monokai Soda ( 67)                          N0tch2k ( 68)                       Neopolitan ( 69)
+                          Neutron ( 70)                     NightLion v1 ( 71)                     NightLion v2 ( 72)
+                            Novel ( 73)                         Obsidian ( 74)                            Ocean ( 75)
+                            Ollie ( 76)                     Paraiso Dark ( 77)                        PaulMillr ( 78)
+                       PencilDark ( 79)                      PencilLight ( 80)                           Pnevma ( 81)
+                              Pro ( 82)                        Red Alert ( 83)                        Red Sands ( 84)
+                      Rippedcasts ( 85)                            Royal ( 86)                        SeaShells ( 87)
+                   Seafoam Pastel ( 88)                             Seti ( 89)                           Shaman ( 90)
+                            Slate ( 91)                            Smyck ( 92)                       SoftServer ( 93)
+                Solarized Darcula ( 94)   Solarized Dark Higher Contrast ( 95)                   Solarized Dark ( 96)
+                  Solarized Light ( 97)          SpaceGray Eighties Dull ( 98)               SpaceGray Eighties ( 99)
+                        SpaceGray (100)                        Spacedust (101)                           Spring (102)
+                           Square (103)                         Sundried (104)                         Symfonic (105)
+                            Teerb (106)                   Terminal Basic (107)                    Thayer Bright (108)
+              Tomorrow Night Blue (109)            Tomorrow Night Bright (110)          Tomorrow Night Eighties (111)
+                   Tomorrow Night (112)                         Tomorrow (113)                         ToyChest (114)
+                        Treehouse (115)                         Twilight (116)                            Urple (117)
+                           Vaughn (118)                       VibrantInk (119)                         WarmNeon (120)
+                              Wez (121)                       WildCherry (122)                           Wombat (123)
+                            Wryan (124)                          Zenburn (125)                         idleToes (126)
+'
+python3 extract.py
+Test/theme/terminator/
+lkls
+work/github/define/
+gsettings set org.pantheon.terminal.settings cursor_color "#a5a2a2"
+dconf
+gsettings set org.pantheon.terminal.settings foreground "#a5a2a2"
+gsettings set org.pantheon.terminal.settings background "#090300"
+subl /usr/bin/theme
+bash white_theme.sh 
+cd define
+cd github
+cd work/
+ipython test1.py love
+python3 test1.py love
+ipython test1.py hello how are you
+ipython test1.py hello how are you ?
+ipython test1.py fun
+ipython3 test1.py fun
+python3 test1.py fun
+python3 test1.py r weer wer wwt 
+./test1.py +6  4+6 51+6 51+6
+./test1.py 
+chmod +x test1.py 
+git config --global push.default simple
+git commit -m "Adding Todo in README.md"
+rm sample.html 
+python3 test.py fuck
+python3 test.py
+python3 test.py love
+subl README.md 
+2to3 -w temp.py 
+2to3 -v
+2to3 --help
+2to3 -l
+python3 temp.py 
+subl temp.py
+subl
+work/python/
+python3 test.py 
+git pull -u  master
+git remote add master git@github.com:Himanshu-Mishr/define.git
+git commit -m "Connecting it with Github"
+git clone https://github.com/Himanshu-Mishr/define.git
+work/github/
+git pull -u origin master
+git remote add git@github.com:Himanshu-Mishr/define.git
+git remote add origin git@github.com:Himanshu-Mishr/define.git
+git remote add origin git@github.com/Himanshu-Mishr/define.git
+git log
+lls
+sudo easy_install3 BeautifulSoup
+easy_install3 BeautifulSoup
+sudo pip3 install BeautifulSoup
+subl define.py
+git init
+mkdir define
+work/python
+define python
+define
+python
+cd project-file/
+mkdir project-file
+work/c
+bash
+youtube-dl -citk  FORMAT --extract-audio --audio-format mp3 --yes-playlist "https://www.youtube.com/playlist?list=PLx0sYbCqOb8Q_CLZC2BdBSKEEB59BOPUM"
+youtube-dl --help
+youtube-dl -citk --max-quality FORMAT --extract-audio --audio-format mp3 "https://www.youtube.com/playlist?list=PLx0sYbCqOb8Q_CLZC2BdBSKEEB59BOPUM"
+sudo pip install --upgrade youtube-dl
+sudo pip upgrade youtube-dl
+sudo pip install -upgrade youtube-dl
+sudo pip install youtube-dl
+youtube-dl -U
+sh
+sds
+youtube-dl -citk --max-quality FORMAT --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLx0sYbCqOb8Q_CLZC2BdBSKEEB59BOPUM
+sudo apt-get install youtube-dl
+youtube-dl
+cd songs/
+mkdir songs
+vi --version
+pathogen
+sl
+sls
+./pycharm.sh 
+vim twork.sh 
+sudo bash netbeans-8.0.2-linux.sh 
+shell bash netbeans-8.0.2-linux.sh 
+bash netbeans-8.0.2-linux.sh 
+make install
+make
+./autogen.sh
+gvim
+sudo pip install neovim
+pynvim
+nvim
+neovim
+sudo pip3 install neovim
+pip3 install neovim
+sudo add-apt-repository ppa:plushuang-tw/uget-stable
+bash email.sh 
+cd emails/
+ipython codeforces_540A.py < 5.txt 
+subl codeforces_540A.py 
+python codeforces_540A.py < 5.txt 
+python codeforces_540A.py 
+cd 540
+cd codeforce/
+work/competition/
+sudo ./install.sh 
+./install.sh 
+adas
+theme bobthefish
+s
+cd algorithms/
+theme agnoster
+theme
+'t call you again.
+
+
+'
+rename
+test
+..
+/
+unzip VSCode-linux-x64.zip 
+cd Documents/
+./autogen.sh --prefix=/usr
+wget http://trai.gov.in/Comments/11-APRIL/11-April.html
+wget http://trai.gov.in/Comments/OLD/27-Mar=to-10-Apr/27-mar.html
+wget http://115.113.49.152/htmlott_3/11-APRIL/11-April.html
+wget http://115.113.49.152/htmlott_3/12-April/index.html
+wget http://trai.gov.in/comments/22-April/22-April.html
+wget http://trai.gov.in/comments/23-April/23-April.html
+wget http://trai.gov.in/comments/24-April/24-April.html
+mkdir emails
+./elementaryplus-installer 
+chmod +x elementaryplus-installer 
+sudo bash first_start.sh 
+sudo first_start.sh 
+cd scripts/
+cd elementaryPlus
+sudo apt-get install compass-icon-theme
+git clone https://github.com/mank319/elementaryPlus.git
+pyvim a.py
+pyvim
+sudo pip install pyvim
+vi
+wget http://recruit.kovair.com/recruitment/LogIn.aspx
+clang bitField.c 
+clang structTask.c 
+./cmdArgument asd asd qw df dg wf qrq weqw eq gw gwe r32 123 4 fhg 354 5 t24 52 5 3r3
+clang cmdArgument.c 
+clang cmdArgument 
+./a.out
+clang fileEmpty.c 
+subl win.c
+vi win.c
+./fileOperation 
+./fileTask1 
+''
+clang malloc_realloc.c
+clang malloc_realloc.c -v
+clang malloc_realloc.c -Wimplicit-function-declaration
+clang malloc_realloc.c 
+work/
+sudo rm -r  /home/himanshu/.local/share/Trash/files/* -f
+sudo rm  /home/himanshu/.local/share/Trash/files/* -f
+sudo rm  /home/himanshu/.local/share/Trash/files/*
+cd /home/himashu/.local/share/files/
+sudo rm /home/himashu/.local/share/files/*
+gnome-system-monitor
+sudo tree
+sudo ls
+sudo rm '*'
+sudo rm *
+sudo rm 
+sudo su
+su
+sudo ll
+cd Worlds-Country-State-and-City-Mysql-Database-master.2.2/
+sudo rmdir *
+sudo rmdir --f
+sudo rmdir
+sudo rmdir -f
+sudo rm -f
+cd files/
+cd Trash/
+cd .local/share
+sudo pantheon-files
+work/asp/
+mono-browser
+cs
+mono task1.asp 
+cd work/asp
+mono
+man clang
+clang --help
+clang
+cd server-client/
+clang struct_malloc.c -Wint-conversion
+clang struct_malloc.c 
+cd c
+c/
+emacs inventory.c 
+start google-chrome
+man google-chrome
+google-chrome --help
+google-chrome
+eclipse
+wget http://media.playboytubes.com/dl/f17db15412cf36a3e41cda27d94be292/5539bb8e/tidal-force-elizabeth-marxs-nude-3min.mp4
+Downloads/
+cd transmission/
+.cache/
+sudo apt-get install gnome-pie
+sudo apt-get update & sudo apt-get install gnome-pie
+sudo add-apt-repository ppa:simonschneegans/testing
+cd .fonts/
+cd 541840017D096A0B/
+cd himanshu/
+cd media/
+cd /
+sudo ls -l
+sudo ls -a
+cd imis/
+sudo chmod +x -R imis/
+chmod --help
+chmod
+sudo chmod +x imis/
+chmod +x *.php 
+chmod 777 *
+chmod 777 *.
+chmod 777 *.php 
+cd html/
+cd www/
+cd var
+8
+function fish_prompt ; pwd>&9;kill -STOP %self; end
+sudo apt-get remove teamviewer
+rm p1.py 
+rm utility.log 
+rm Untitled.ipynb 
+rm a
+view a
+rm adobe-flashplugin_20150414.1.orig.tar.gz 
+git pull
+git commit -a
+git add *.
+cd c_files/
+cd github/
+subl github
+cd .. 
+cd Weather/
+git clone https://github.com/Himanshu-Mishr/c_files.git
+git clone https://github.com/Himanshu-Mishr/code-tester.git
+git clone https://github.com/Himanshu-Mishr/my-java-codes
+git clone https://github.com/Himanshu-Mishr/todoManager.git
+git clone https://github.com/Himanshu-Mishr/algorithms.git
+git clone https://github.com/Himanshu-Mishr/bash.git
+git clone https://github.com/Himanshu-Mishr/Himanshu-Mishr.github.io.git
+git clone https://github.com/Himanshu-Mishr/php_ClassCodes.git
+git clone https://github.com/Himanshu-Mishr/projecteuler.git
+git clone https://github.com/Himanshu-Mishr/Weather.git
+git clone https://github.com/Himanshu-Mishr/oep.git
+git clone https://github.com/Himanshu-Mishr/Awesome-Chat.git
+git clone https://github.com/Himanshu-Mishr/java.git
+git clone https://github.com/Himanshu-Mishr/Nice-Codes.git
+git clone https://github.com/Himanshu-Mishr/JWeather.git
+cd Projects/
+git clone https://github.com/Himanshu-Mishr/Projects.git
+git https://github.com/Himanshu-Mishr/Projects.git
+tree -a
+git clean -d -x -f
+rm *.*
+rm *
+rm '*'
+rm '*.'
+rm *.
+rm 8
+teamviewer
+sudo teamviewer --daemon start
+teamviewer --daemon start
+teamviewer 
+teamviewer --deamon start
+teamviewer -deamon start
+sudo teamviewer
+sudo dpkg -f teamviewer_10.0.37742_i386.deb 
+sudo apt-get install libxinerama1:i386
+sudo dpkg -i teamviewer_10.0.37742_i386.deb 
+sudo apt-get install libc6:i386 libgcc1:i386 libasound2:i386 libfreetype6:i386 zlib1g:i386 libsm6:i386 libxdamage1:i386 libxext6:i386 libxfixes3:i386 libxrender1:i386 libxtst6:i386 libxrandr2:i386
+dpkg-deb -I teamviewer_10.0.37742_i386.deb  | grep Depends
+sudo dpkg -f teamviewer_10.0.37742_i386.deb
+cd Downloads/
+sudo dpkg -i *.deb
+sudo dpkg -i '*.deb'
+cd DEBS/
+apt-get
+sudo dpkg -i -f teamviewer_10.0.37742_i386.deb 
+sudo gdebi teamviewer_10.0.37742_i386.deb 
+gnome-system-monitor --help-gtk
+gnome-system-monitor --display
+gnome-system-monitor --help-gapplication
+gnome-system-monitor --help
+gnome-system-monitor 
+./.dropbox-dist/dropboxd
+ping 8.8.4.4
+sudo apt-add-repository ppa:zeal-developers/ppa
+sudo apt-add-repository --remove ppa:jerzy-kozera/zeal-ppa
+wget  http://archive.canonical.com/pool/partner/a/adobe-flashplugin/adobe-flashplugin_20150414.1.orig.tar.gz
+sudo /etc/init.d/apache2 restart
+sudo subl /var/www/info.php
+ipconfig
+pwd
+cd .xchat2/
+cd Sketchnotes\ 2013\ -\ Sacha\ Chua/
+cd Dropbox/
+./.dropbox-dist/dropboxd stop
+./.dropbox-dist/dropboxd stop & env XDG_CURRENT_DESKTOP=Unity dropbox start
+dropbox stop & env XDG_CURRENT_DESKTOP=Unity dropbox start
+;;
+sudo apt-get install lamp-server^
+sudo  add-apt-repository ppa:wfg/0ad
+git clone https://github.com/titoBouzout/SideBarEnhancements.git
+lsusb -d 002
+lsusb -s bus:002
+lsusb
+lsusb -s 002
+lsusb --help
+ping google.com
+net IDmap secret
+net IDmap setmap
+net IDmap dump
+net IDmap check
+net IDmap
+net
+net time
+net status
+ping *
+sudo chmod +x *
+sudo chmod +x *.
+sudo chmod +x '*.'
+cd html
+sudo shutdown now
+sudo logout
+safwf
+cd work
+wefa
+lsa
+sudo add-apt-repository ppa:peterlevi/ppa
+sudo file
+sudo files
+cd main\ page/
+cd ~/work/html5/
+cd LWD4e_materials/
+ls -d
+grep 'footer'
+cd Leaning\ HTML/
+c Leaning\ HTML/
+cd main/
+html5/
+las
+work
+wget http://stream.shooshtime.com/vids55/136/eab3b0-curious-girl-tries-hardcore-porn-for-1st-time.mp4
+curl -L http://stream.shooshtime.com/vids55/136/eab3b0-curious-girl-tries-hardcore-porn-for-1st-time.mp4
+cd 
+subl main\ page/
+rm adding_css_js.html~ 
+html5
+cd cwork
+sudo pip3 install --upgrade python
+ipython notebook
+sudo pip3 install --upgrade terminado
+sudo pip3 install --upgrade jsonschema
+sudo pip3 install --upgrade tornado
+ipython --help
+sudo pip3 install ipython-sql
+sudo pip3 install --upgrade ipython
+subl .pip/pip.log 
+pip3 install --upgrade ipython3
+man pip3
+ipython3
+cd ...
+git config --global user.email 'himanshu.m786@gmail.com'
+git config --global user.name 'Himanshu Mishra'
+ssh -T git@github.com
+xclip -sel clip < ~/.ssh/id_rsa.pub
+sudo apt-get install xclip
+ssh-add ~/.ssh/id_rsa
+ssh-agent -s
+eval '$(ssh-agent -s)'
+ssh-keygen -t rsa -C 'himanshu.m786@gmail.com'
+ssh-keygen -t rsa -C "your_email@example.com"
+ls -al ~/.ssh
+sudo ./first_start.sh 
+./first_start.sh 
+~/.dropbox-dist/dropboxd
+sudo ./show_dropbox_indicator.sh 
+./show_dropbox_indicator.sh 
+sudo -S chmod -R 777 install.sh 
+chmod 777 ./install.sh 
+chmod +x0 ./install.sh 
+cd elementaryPlus-master/
+cd ~ & wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
+dropbox start -i
+rm -rfd ~/.dropbox/
+rm -rfd ~/.dropbox-dist/
+sudo dropbox start -i
+dropbox start
+dropbox --help
+sudo bash install.sh 
+chmod +x install.sh 
+java
+sudo pip3 install ipython3
+sudo pip3 install --upgrade ipython3
+pip3 install --upgrade ipython
+sudo apt-get install feedreader
+sudo apt-add-repository ppa:eviltwin1/feedreader-daily
+sudo apt-get update  
+sudo apt-add-repository ppa:gotwig/weekly
+sudo apt-add-repository ppa:fantasy/ppa
+sudo add-apt-repository ppa:donadigo/eutility
+sudo add-apt-repository ppa:costales/anoise
+theme numist
+theme integral
+theme fisk
+theme eclm
+cd //
+theme coffeeandcode
+theme bira
+theme cor
+theme fishy-drupal
+theme cmorrel.com
+cmorrel.com
+theme zish
+theme sy120bnr
+theme nai
+theme idan
+ks
+kk
+theme fishface
+theme clearance
+theme yimmy
+autojump
+theme simplevi
+gitstats
+gitstatus
+themer
+theme edan
+theme cbjohnson
+theme -a
+te
+theme beloglazov
+llsa
+afs
+subl .bashrc 
+cd .tmux-powerline/
+vi README.md 
+cd tmux-powerline/
+theme --help
+git clone https://github.com/erikw/tmux-powerline.git
+sudo apt-get install powerline
+subl .b
+pip install --user git+git://github.com/Lokaltog/powerline
+subl .zshrc
+subl .vimrc 
+sudo apt-get vim
+sudo fc-cache -vf
+fc-cache -vf ~/.fonts/
+mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d/
+mv PowerlineSymbols.otf ~/.fonts/
+wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
+wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
+sudo pip install --upgrade python requests==2.7.9
+sudo pip install --upgrade python
+sudo pip install pyopenssl ndg-httpsclient pyasn1
+sudo pip install --upgrade powerline-status
+sudo pip install --user powerline-status
+cd test/
+setuptools
+fc-cache -vf
+bd
+sudo subl /etc/default/locale
+subl /etc/default/locale
+subo /etc/default/locale
+/etc/default/locale
+more /etc/sysconfig/i18n 
+sudo dpkg-reconfigure locales
+dpkg-reconfigure locales
+dpkg -l locales
+locale-gen 
+set LC_ALL en_US.UTF-8
+set LC_IDENTIFICATION "en_US.UTF-8"
+set LC_MEASUREMENT "en_US.UTF-8"
+set LC_TELEPHONE "en_US.UTF-8"
+set LC_ADDRESS "en_US.UTF-8"
+set LC_NAME "en_US.UTF-8"
+set LC_PAPER "en_US.UTF-8"
+set LC_MESSAGES "en_US.UTF-8"
+set LC_MONETARY "en_US.UTF-8"
+set LC_COLLATE "en_US.UTF-8"
+set LC_TIME "en_US.UTF-8"
+set LC_NUMERIC "en_US.UTF-8"
+set LC_CTYPE "en_US.UTF-8"
+set LANGUAGE en_US.UTF-8
+set LANG en_US.UTF-8
+set LC_ALL=en_US.UTF-8
+set LC_IDENTIFICATION="en_US.UTF-8"
+set LC_MEASUREMENT="en_US.UTF-8"
+set LC_TELEPHONE="en_US.UTF-8"
+set LC_ADDRESS="en_US.UTF-8"
+set LC_NAME="en_US.UTF-8"
+set LC_PAPER="en_US.UTF-8"
+set LC_MESSAGES="en_US.UTF-8"
+set LC_MONETARY="en_US.UTF-8"
+set LC_COLLATE="en_US.UTF-8"
+set LC_TIME="en_US.UTF-8"
+set LC_NUMERIC="en_US.UTF-8"
+set LC_CTYPE="en_US.UTF-8"
+set LANGUAGE=en_US.UTF-8
+set LANG=en_US.UTF-8
+LANG=en_US.UTF-8
+LC_ALL=en_US.UTF-8
+LC_IDENTIFICATION="en_US.UTF-8"
+LC_MEASUREMENT="en_US.UTF-8"
+LC_TELEPHONE="en_US.UTF-8"
+LC_ADDRESS="en_US.UTF-8"
+LC_NAME="en_US.UTF-8"
+LC_PAPER="en_US.UTF-8"
+LC_MESSAGES="en_US.UTF-8"
+LC_MONETARY="en_US.UTF-8"
+LC_COLLATE="en_US.UTF-8"
+LC_TIME="en_US.UTF-8"
+LC_NUMERIC="en_US.UTF-8"
+LC_CTYPE="en_US.UTF-8"
+LANGUAGE=en_US.UTF-8
+localectl
+locale
+source ~/.bashrc
+sudo dpkg-reconfigure locales -f en_US-UTF-8
+sudo dpkg-reconfigure locales --help
+sudo dpkg-reconfigure locales en_US-UTF-8
+cp ~/.oh-my-fish/templates/config.fish ~/.config/fish/config.fish
+git clone git://github.com/bpinto/oh-my-fish.git ~/.oh-my-fish
+gnomial-terminal
+gnomial-terminalk
+gnome--termin
+fish
+\\
