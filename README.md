@@ -12,7 +12,7 @@ $`clang bank.c -o bank -I/usr/include/mysql -DBIG_JOINS=1  -fno-strict-aliasing 
 $`./bank`
 
 ## Server-Client Shell Access and File Downloader
-This program is a client/server application for the file download between a server and a client. This application allows multiple client to access to server. This program efficiently uses fork, socket, pipe, signal, etc. The client can execute any UNIX utility on the server machine like a remote login. And in addition client can download a file from server.
+This program is a client/server application for the file download between a server and a client. Program allows multiple clients to access server. Program efficiently uses fork, socket, pipe, signal, etc. The client can execute any UNIX utility on the server machine like a remote login. And in addition client can download a file from server.
 
 ####Prerequisites
   You need to get server's IP address before compiling and running program.
