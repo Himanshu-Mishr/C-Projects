@@ -2,7 +2,7 @@
 My Projects based on C Programming. Application ranges from using MySQL API and UNIX C Libraries.
 
 ## Banking Record Management System
-This program uses MySQL API in order to save banking database. This whole program is automated. It has features that allows user to add/edit/remove customers. It provided easy option and efficiently maintain user accounts and its details.
+This program uses MySQL API in order to maintain banking database. This whole program is automated. It has features that allows user to add/edit/remove customers. It provided easy options and efficiently maintains user accounts and its details.
 
 ####Prerequisites
 MySQl. You can use `brms.sql` file as database.
